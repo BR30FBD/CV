@@ -1,0 +1,22 @@
+#span::before {
+    content: "Developer";
+    animation: animate infinite 8s;
+    transition:.35s ease-in-out;
+    padding-left: 10px;
+}
+
+@keyframes animate {
+
+    0% {
+        content: "Developer";
+    }
+
+    25% {
+        content: "Freelancer";
+    }
+
+    50% {
+        content: "Designer";
+    }
+   
+}
