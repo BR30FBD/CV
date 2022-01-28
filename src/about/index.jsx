@@ -78,7 +78,7 @@ const About = () => {
                       </li>
                       <li>
                         <i className="bi bi-chevron-right"></i>{" "}
-                        <strong>PhEmailone:</strong>{" "}
+                        <strong>Email:</strong>{" "}
                         <span>kushwaha30nitish2002@gmail.com</span>
                       </li>
                       <li>
