@@ -5,7 +5,7 @@ import Portfolio from "../portfolio";
 import Resum from "../resum";
 import Services from "../services";
 import Skill from "../skill";
-import Testimonials from "../testimonials";
+// import Testimonials from "../testimonials";
 
 const About = () => {
   return (
@@ -16,7 +16,7 @@ const About = () => {
             <div className="section-title">
               <h2>About</h2>
               <p>
-                Hi, I’m Nitish. I'm a multi-talented human with over 1+ years of
+                Hi, I’m Nitish. I'm a multi-talented human with over six months of
                 experiences in wide range of design disciplines. You can also
                 call me a product designer, experience designer, interaction,
                 UI, UX or by any other market defined function-title. I'm also a
@@ -106,7 +106,7 @@ const About = () => {
         <Portfolio />
 
         <Services />
-        <Testimonials />
+        {/* <Testimonials /> */}
 
         <Contact />
       </main>

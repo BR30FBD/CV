@@ -9,7 +9,7 @@ const Services = () => {
             <h2>Services</h2>
             <p>
             Freelance Web Designer & Developer based in Delhi NCR, Faridabad.
-Highly experienced in designing & developing custom Wordpress websites.
+Highly experienced in designing & developing custom  websites.
             
             </p>
           </div>
@@ -20,11 +20,11 @@ Highly experienced in designing & developing custom Wordpress websites.
                 <i className="bi bi-briefcase"></i>
               </div>
               <h4 className="title">
-                <a href="/#">Lorem Ipsum</a>
+                <a href="/#">Making UI</a>
               </h4>
               <p className="description">
-                Voluptatum deleniti atque corrupti quos dolores et quas
-                molestias excepturi sint occaecati cupiditate non provident
+                Provide a better qulity and most attractive 
+                and responsive websites.
               </p>
             </div>
             <div
@@ -36,11 +36,10 @@ Highly experienced in designing & developing custom Wordpress websites.
                 <i className="bi bi-card-checklist"></i>
               </div>
               <h4 className="title">
-                <a href="/#">Dolor Sitema</a>
+                <a href="/#">Debugging & Fixing </a>
               </h4>
               <p className="description">
-                Minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-                aliquip ex ea commodo consequat tarad limino ata
+              Debugging errors occurring in code and fixing it.
               </p>
             </div>
             <div
@@ -52,11 +51,11 @@ Highly experienced in designing & developing custom Wordpress websites.
                 <i className="bi bi-bar-chart"></i>
               </div>
               <h4 className="title">
-                <a href="/#">Sed ut perspiciatis</a>
+                <a href="/#">SEO</a>
               </h4>
               <p className="description">
-                Duis aute irure dolor in reprehenderit in voluptate velit esse
-                cillum dolore eu fugiat nulla pariatur
+              We make sites according to search engine optimization.
+
               </p>
             </div>
             <div
@@ -64,50 +63,8 @@ Highly experienced in designing & developing custom Wordpress websites.
               data-aos="fade-up"
               data-aos-delay="300"
             >
-              <div className="icon">
-                <i className="bi bi-binoculars"></i>
               </div>
-              <h4 className="title">
-                <a href="/#">Magni Dolores</a>
-              </h4>
-              <p className="description">
-                Excepteur sint occaecat cupidatat non proident, sunt in culpa
-                qui officia deserunt mollit anim id est laborum
-              </p>
-            </div>
-            <div
-              className="col-lg-4 col-md-6 icon-box"
-              data-aos="fade-up"
-              data-aos-delay="400"
-            >
-              <div className="icon">
-                <i className="bi bi-brightness-high"></i>
-              </div>
-              <h4 className="title">
-                <a href="/#">Nemo Enim</a>
-              </h4>
-              <p className="description">
-                At vero eos et accusamus et iusto odio dignissimos ducimus qui
-                blanditiis praesentium voluptatum deleniti atque
-              </p>
-            </div>
-            <div
-              className="col-lg-4 col-md-6 icon-box"
-              data-aos="fade-up"
-              data-aos-delay="500"
-            >
-              <div className="icon">
-                <i className="bi bi-calendar4-week"></i>
-              </div>
-              <h4 className="title">
-                <a href="/#">Eiusmod Tempor</a>
-              </h4>
-              <p className="description">
-                Et harum quidem rerum facilis est et expedita distinctio. Nam
-                libero tempore, cum soluta nobis est eligendi
-              </p>
-            </div>
-          </div>
+        </div>
         </div>
       </section>
     </>
