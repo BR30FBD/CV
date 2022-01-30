@@ -54,7 +54,7 @@ const About = () => {
                       </li>
                       <li>
                         <i className="bi bi-chevron-right"></i>{" "}
-                        <strong>Website:</strong> <span><a href="https://github.com/HackerNITISH" style={{textDecoration:"none",color:"black"}}>GitHub</a></span>
+                        <strong>Website:</strong> <span><a href="https://github.com/webGalaxies" style={{textDecoration:"none",color:"black"}}>GitHub</a></span>
                       </li>
                       <li>
                         <i className="bi bi-chevron-right"></i>{" "}
